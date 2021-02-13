@@ -3,7 +3,7 @@ This is an API wrapper for GoAnimate, which had been shut down  *in december 201
 ## How to Use
 To access this service, install [Node.JS](https://nodejs.org/en/) then clone/download this project.	Once done, unzip the folder, copy the path, and execute the following commands in your command prompt (where `{PATH}` is the folder path you copied):
 ```console
-cd "{PATH}\Jewmber-Animate-master"
+cd "{PATH}\GoAnimate-Remastered-Offline-master"
 npm install
 npm start
 ```
